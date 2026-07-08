@@ -1,12 +1,5 @@
-## Hi there 👋
+RDS Ltd, part of the Volex Plc
 
-<!--
+A technology solutions company. With 40+ years in business and South Easy UK Manufacturing and Warehousing. UK based design of embedded computer systems, with a specialism in embedded displays.
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+[Website](https://www.review-displays.co.uk/)
